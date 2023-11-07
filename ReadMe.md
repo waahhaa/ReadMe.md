@@ -23,8 +23,6 @@ With a background in  software development, I have cultivated a deep understandi
 - **Monitoring & Logging**: Prometheus, Grafana
 - **Version Control**: Git
 
-### Work Experience
-
 #### DevOps Engineer | STARLAB
 
 - Participate in the design and implementation of CI/CD pipelines, reducing deployment time.
