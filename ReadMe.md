@@ -1,6 +1,6 @@
 ## Waahhaa DevOps
 
-👨‍💻 DevOps Engineer | ☁️ Cloud Enthusiast | 🛠 Automation Wizard
+👨‍💻  DevOps Engineer | ☁️ Cloud Enthusiast | 🛠 Automation Wizard | 👨‍🔧 Pipeline Plumber 
 
 📧 Email: t@n_537@h0tmail.c0m | 📱 LinkedIn: [linkedin.com/in/anthonytyt])
 
