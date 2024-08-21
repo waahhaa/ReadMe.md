@@ -18,8 +18,7 @@ With a background in  software development, I have cultivated a deep understandi
 - **Containerization**: Docker, Kubernetes, RedHat Openshift
 - **CI/CD**: Jenkins, GitLab CI/CD, ArgoCD
 - **Automation**: Ansible
-- **Cloud Technologies**: Oracle
-- **Scripting/Programming**: Bash, Python
+- **Scripting/Programming**: Bash, Python, JavaScript
 - **Monitoring & Logging**: Prometheus, Grafana
 - **Version Control**: Git
 
